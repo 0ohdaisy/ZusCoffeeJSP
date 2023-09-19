@@ -30,4 +30,7 @@
 <li>Feel free to modify and enhance the project to suit your needs and requirements.</li>
 </ul></h4>
 
+![Picture1](https://github.com/0ohdaisy/ZusCoffeeJSP/assets/107118926/1bafc419-09e1-44be-b1d8-84e99b6dca0f)
+![Picture2](https://github.com/0ohdaisy/ZusCoffeeJSP/assets/107118926/672da2b7-72b1-4cdc-b9d3-0270f4128533)
+
 <h5> Lab Test Web Application Development at 28 Dec 2022, 8:24:11 pm by Adlina </h5>
